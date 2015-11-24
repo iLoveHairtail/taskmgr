@@ -1,0 +1,9 @@
+D:\Code-All\vs2012-driver\GMZ_csharp\GMZ_csharp\bin\Debug\GMZ_csharp.exe.config
+D:\Code-All\vs2012-driver\GMZ_csharp\GMZ_csharp\bin\Debug\GMZ_csharp.exe
+D:\Code-All\vs2012-driver\GMZ_csharp\GMZ_csharp\bin\Debug\GMZ_csharp.pdb
+D:\Code-All\vs2012-driver\GMZ_csharp\GMZ_csharp\obj\Debug\GMZ_csharp.csprojResolveAssemblyReference.cache
+D:\Code-All\vs2012-driver\GMZ_csharp\GMZ_csharp\obj\Debug\GMZ_csharp.GMZ_csharp.resources
+D:\Code-All\vs2012-driver\GMZ_csharp\GMZ_csharp\obj\Debug\GMZ_csharp.Properties.Resources.resources
+D:\Code-All\vs2012-driver\GMZ_csharp\GMZ_csharp\obj\Debug\GMZ_csharp.csproj.GenerateResource.Cache
+D:\Code-All\vs2012-driver\GMZ_csharp\GMZ_csharp\obj\Debug\GMZ_csharp.exe
+D:\Code-All\vs2012-driver\GMZ_csharp\GMZ_csharp\obj\Debug\GMZ_csharp.pdb
